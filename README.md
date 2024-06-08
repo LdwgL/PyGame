@@ -1,5 +1,4 @@
 # PyGame
 
-Intégration d'une carte 
-
-Déplacements du joueur & Caméra 
+Map Integration
+Moves player and camera
